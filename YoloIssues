@@ -1,0 +1,34 @@
+https://github.com/ultralytics/ultralytics/issues/3213
+https://github.com/ultralytics/ultralytics/issues/3207
+https://github.com/ultralytics/ultralytics/issues/280
+https://github.com/ultralytics/ultralytics/issues/917
+https://github.com/ultralytics/ultralytics/issues/1330
+https://github.com/ultralytics/ultralytics/issues/1676
+
+Cannot support RLE: https://github.com/ultralytics/ultralytics/issues/917
+How to solve: https://stackoverflow.com/questions/75326066/coco-annotations-convert-rle-to-polygon-segmentation
+https://github.com/ultralytics/JSON2YOLO/issues/38
+https://www.kaggle.com/code/linrds/convert-rle-to-polygons
+
+
+
+# For improving model quality
+https://github.com/ultralytics/ultralytics/issues/1019
+
+
+# Default hyperparameters of YOLOv8
+https://github.com/ultralytics/ultralytics/issues/1449
+
+# Minimum reproducible code
+https://github.com/ultralytics/ultralytics/issues/3123
+
+# Possible alternative: https://github.com/open-mmlab/mmdetection/tree/main/configs/rtmdet
+
+
+# Potential problems:
+
+1. RLE labeling format
+2. Cannot support overlapping masks (https://github.com/ultralytics/ultralytics/issues/2228)
+3. Polygon points are not pixel-wise (https://github.com/ultralytics/ultralytics/issues/1507)
+4. Only 15 classes for validating instance segmentation (https://github.com/ultralytics/ultralytics/issues/3043)
+5.
